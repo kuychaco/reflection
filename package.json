@@ -1,0 +1,19 @@
+{
+  "name": "reflection",
+  "version": "0.0.0",
+  "description": "Making feedback collection waaaay easier",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/svnh/reflection.git"
+  },
+  "author": "Katrina Uychaco (kuychaco@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svnh/reflection/issues"
+  },
+  "homepage": "https://github.com/svnh/reflection"
+}
