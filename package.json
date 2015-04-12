@@ -4,7 +4,8 @@
   "description": "Making feedback collection waaaay easier",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/svnh/reflection/issues"
   },
-  "homepage": "https://github.com/svnh/reflection"
+  "homepage": "https://github.com/svnh/reflection",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
 }
